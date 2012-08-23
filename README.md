@@ -1,1 +1,1 @@
-Investigate how Git could work with Git.
+Investigate how Git could work with Teamcity.
