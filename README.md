@@ -1,0 +1,1 @@
+Investigate how Git could work with Git.
